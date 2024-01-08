@@ -18,9 +18,9 @@ Point = namedtuple('Point', 'x, y')
 
 # rgb colors
 WHITE = (255, 255, 255)
-RED = (93, 255, 5)
-BLUE1 = (250, 2, 2)
-BLUE2 = (250, 2, 2)
+RED = (0, 245, 12)
+BLUE1 = (242, 5, 17)
+BLUE2 = (242, 5, 17)
 BLACK = (0,0,0)
 
 BLOCK_SIZE = 20
